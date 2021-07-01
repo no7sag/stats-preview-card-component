@@ -30,7 +30,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: repeat(3, 1fr);
-    margin: 160px 180px 60px;
+    margin: 180px 180px 60px;
     background-color: hsl(244, 38%, 16%);
     border-radius: 8px;
 }
