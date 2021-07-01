@@ -1,2 +1,2 @@
-# stats-preview-card-component
-Mi primer Frontend Challenge usando CSS Grid and Flexbox.
+# Stats preview card component
+Mi primer [Frontend Challenge](https://www.frontendmentor.io/) usando CSS Grid and Flexbox.
